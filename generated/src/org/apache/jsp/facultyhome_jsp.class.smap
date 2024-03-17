@@ -1,0 +1,19 @@
+SMAP
+facultyhome_jsp.java
+JSP
+*S JSP
+*F
++ 0 facultyhome.jsp
+facultyhome.jsp
++ 1 connfile.jsp
+connfile.jsp
+*L
+5,2:50
+5#1,20:52
+24:72
+7#0,168:73
+175,4:242
+178,15:246
+193:261,3
+194,10:264
+*E
